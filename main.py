@@ -1,5 +1,4 @@
-#IDK who to creidet
-#It's encourged to use this to fork
+#IDK who to credit, sorry!
 
 class colors:
 
